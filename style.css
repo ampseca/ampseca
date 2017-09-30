@@ -1128,8 +1128,7 @@ form input[type="submit"], form button, form input[type="reset"] {
   position: relative;
   }
   .site-header.collapsed-nav {
-    position: absolute;
-    top: 100px;
+   
     width: 100%;
     left: 0; }
 
