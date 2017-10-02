@@ -1592,8 +1592,8 @@ ol.circle {
 .project-list {
   margin: 0 -15px; }
   .project-list .project {
-    float: left;
-    width: 33.3333%;
+    
+    
     padding: 0 15px;
     text-align: center;
     margin-bottom: 30px; }
