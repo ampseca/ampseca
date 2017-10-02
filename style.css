@@ -1921,15 +1921,15 @@ figure {
 
 
 
-.banner .client.va-logo {   background: url(images/pic1s.png) no-repeat center center; }
-  .banner .client.disa-logo { background: url(images/pic2s.png) no-repeat center center; }
+.banner .client.va-logo {   background: url(images/pic6s.png) no-repeat center center; }
+  .banner .client.disa-logo { background: url(images/pic1s.png) no-repeat center center; }
   .banner .client.centcom-logo { background: url(images/pic3s.png) no-repeat center center; }
-  .banner .client.dos-logo { background: url(images/pic6s.png) no-repeat center center; }
+  .banner .client.dos-logo { background: url(images/pic2s.png) no-repeat center center; }
   
-  .banner .client.va-logo:hover { background: url(images/pic1c.png) no-repeat center center; }
-  .banner .client.disa-logo:hover { background: url(images/pic2c.png) no-repeat center center; }
+  .banner .client.va-logo:hover { background: url(images/pic6c.png) no-repeat center center; }
+  .banner .client.disa-logo:hover { background: url(images/pic1c.png) no-repeat center center; }
   .banner .client.centcom-logo:hover { background: url(images/pic3c.png) no-repeat center center; }
-  .banner .client.dos-logo:hover { background: url(images/pic6c.png) no-repeat center center; }
+  .banner .client.dos-logo:hover { background: url(images/pic2c.png) no-repeat center center; }
   
   .banner .client.graham-holdings-logo { background: url(images/pic5s.png) no-repeat center center; }
   .banner .client.blackboard-logo { background: url("http://ms3.bareseo.com/wp-content/uploads/2015/04/BLACKBOARD-GREY.png") no-repeat center center; }
