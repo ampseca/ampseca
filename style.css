@@ -1922,12 +1922,12 @@ figure {
 
 
 .banner .client.va-logo {   background: url(images/pic6s.png) no-repeat center center; }
-  .banner .client.disa-logo { background: url(images/pic1s.png) no-repeat center center; }
+  .banner .client.disa-logo { background: url(images/pic7s.png) no-repeat center center; }
   .banner .client.centcom-logo { background: url(images/pic3s.png) no-repeat center center; }
   .banner .client.dos-logo { background: url(images/pic2s.png) no-repeat center center; }
   
   .banner .client.va-logo:hover { background: url(images/pic6c.png) no-repeat center center; }
-  .banner .client.disa-logo:hover { background: url(images/pic1c.png) no-repeat center center; }
+  .banner .client.disa-logo:hover { background: url(images/pic7c.png) no-repeat center center; }
   .banner .client.centcom-logo:hover { background: url(images/pic3c.png) no-repeat center center; }
   .banner .client.dos-logo:hover { background: url(images/pic2c.png) no-repeat center center; }
   
