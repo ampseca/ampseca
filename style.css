@@ -1215,13 +1215,13 @@ form input[type="submit"], form button, form input[type="reset"] {
         font-weight: 400;
         padding: 32px 8px;
         display: block;
-        color: #8e9ca5;
+        color: #095573;
         -webkit-transition: .3s ease;
                 transition: .3s ease;
         border-bottom: 2px solid transparent;
         line-height: normal; }
       .main-navigation .menu .menu-item.current-menu-item a, .main-navigation .menu .menu-item:hover a {
-        color: #69acc7;
+        color: #095573;
         border-bottom: 2px solid #69acc7; }
 
 .mobile-navigation {
